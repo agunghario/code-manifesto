@@ -1,15 +1,15 @@
-The Code Manifesto
+Manifestasi Code
 ==================
 
-We want to work in an ecosystem that empowers developers to reach their potential--one that encourages growth and effective collaboration. A space that is safe for all.
+Kami ingin bekerja dalam sebuah ekosistem dimana bisa membawa kemajuan bagi programmer untuk mencapai seluruh potensi yang dimiliki, dimana salah satu diantaranya adalah pertumbuhan skill dan kerja sama yang efektif. Sebuah "ruang" / suasana yang aman bagi semua.
 
-A space such as this benefits everyone that participates in it. It encourages new developers to enter our field. It is through discussion and collaboration that we grow, and through growth that we improve.
+Suasana seperti ini akan sangat menguntungkan bagi setiap orang yang berpartisipasi di dalamnya. Hal ini mendorong pengembang / programmer baru untuk bergabung dengan kita, dengan cara diskusi yang terus menerus dan kolaborasi kita bisa tumbuh, dan dengan bertumbuh skill yang kita miliki meningkatkan.
 
-In the effort to create such a place, we hold to these values:
+Dalam upaya menciptakan keadaan seperti itu, kami memegang nilai-nilai ini:
 
-1. **Discrimination limits us.** This includes discrimination on the basis of race, gender, sexual orientation, gender identity, age, nationality, technology and any other arbitrary exclusion of a group of people.
-2. **Boundaries honor us.** Your comfort levels are not everyone’s comfort levels. Remember that, and if brought to your attention, heed it.
-3. **We are our biggest assets.** None of us were born masters of our trade. Each of us has been helped along the way. Return that favor, when and where you can.
+1. **Tidak melakukan Diskriminasi.** Termasuk dalam hal ini adalah terhadap ras, gender, orientasi sex, usia, negara, teknologi dan seluruh budaya pengucilan terhadap kelompok kecil orang.
+2. **Sama dan Setara.** level yang Anda miliki belum tentu sepemahaman dengan yang lain. Ingat ini, Diatas langit masih ada langit.
+3. **Kita adalah Asset besar dari manisfes ini.** Tak seorangpun None of us were born masters of our trade. Each of us has been helped along the way. Return that favor, when and where you can.
 4. **We are resources for the future.** As an extension of #3, share what you know. Make yourself a resource to help those that come after you.
 5. **Respect defines us.** Treat others as you wish to be treated. Make your discussions, criticisms and debates from a position of respectfulness. Ask yourself, is it true? Is it necessary? Is it constructive? Anything less is unacceptable.
 6. **Reactions require grace.** Angry responses are valid, but abusive language and vindictive actions are toxic. When something happens that offends you, handle it assertively, but be respectful. Escalate reasonably, and try to allow the offender an opportunity to explain themselves, and possibly correct the issue.
